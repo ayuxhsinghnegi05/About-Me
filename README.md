@@ -1323,8 +1323,8 @@
         </p>
 
         <p>
-            🐙 GitHub:
-            ayuxhsinghnego05
+            🐙 Instagram:
+            ayuxhsingh2
                 My GitHub
             </a>
         </p>
