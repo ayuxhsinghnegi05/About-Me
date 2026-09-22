@@ -1311,20 +1311,20 @@
         <p>
             📧 Email:
             <a href="mailto:your-email@example.com">
-                your-email@example.com
+                ayuxhsinghnegi05@gmail.com
             </a>
         </p>
 
         <p>
             💼 LinkedIn:
             <a href="#" target="_blank">
-                My LinkedIn
+                https://www.linkedin.com/in/ayush-negi-08ba35418
             </a>
         </p>
 
         <p>
             🐙 GitHub:
-            <a href="#" target="_blank">
+            ayuxhsinghnego05
                 My GitHub
             </a>
         </p>
